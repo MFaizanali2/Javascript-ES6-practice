@@ -43,6 +43,15 @@
 
 
     // ES6 Spread & Rest operator
-let a = [1, 3, 67, 89, 345, 34, 78, 34, 90];
-let b = [...a];
-console.log(b)
+// let a = [1, 3, 67, 89, 345, 34, 78, 34, 90];
+// let b = [...a];
+// console.log(b)
+
+    // Rest operator
+// function sum(a, b, c, ... d){
+//     console.log(a, b, c, d)
+// }
+// sum(4, 7, 9, 3, 6, 78, 66, 55);
+
+// Spread use hota ha copy ya fir us location par kisi aur ki values bikharna ke liya.
+// Rest use hota ha jab apko bacha howe values aik varaibale ma dalna ho.
