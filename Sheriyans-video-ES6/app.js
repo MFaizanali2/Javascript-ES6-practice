@@ -42,4 +42,7 @@
 // string store kara ga.
 
 
-
+    // ES6 Spread & Rest operator
+let a = [1, 3, 67, 89, 345, 34, 78, 34, 90];
+let b = [...a];
+console.log(b)
