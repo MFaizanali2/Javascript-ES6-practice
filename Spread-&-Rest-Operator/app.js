@@ -24,7 +24,7 @@
 // sum(56, 43, 88, 34);
 
 
-function sum(){
-    let sum
+// function sum(){
+//     let sum
 
-}
+// }
