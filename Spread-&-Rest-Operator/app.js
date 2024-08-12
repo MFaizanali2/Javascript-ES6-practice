@@ -15,3 +15,16 @@
 //     console.log(arg)
 // }
 // sum("hello", "nice", "billi", 75, 90, 54, 845, 65,);
+
+
+// function sum(){
+//     console.log(arguments)
+// }
+// sum(30, 89, 77);
+// sum(56, 43, 88, 34);
+
+
+function sum(){
+    let sum
+
+}
