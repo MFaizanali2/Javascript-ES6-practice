@@ -40,3 +40,6 @@
 // double quotaion ka andar ham variable ko nahi likh shakta ha backtick ma dollar sign ka sath 
 // use kar shakta ha, double quotaion ka andar sum or num sa calculation nahi hoti ha wo sum or num ko
 // string store kara ga.
+
+
+
