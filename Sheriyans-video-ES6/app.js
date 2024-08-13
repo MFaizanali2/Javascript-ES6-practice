@@ -56,9 +56,9 @@
 // Spread use hota ha copy ya fir us location par kisi aur ki values bikharna ke liya.
 // Rest use hota ha jab apko bacha howe values aik varaibale ma dalna ho.
 
-let a = [4, 7, 9, 3, 6];
-console.log(a)
-let [b, c, d, e] = a;
+// let a = [4, 7, 9, 3, 6];
+// console.log(a)
+// let [b, c, d, e] = a;
 
 // console.log(a)
 // console.log(b);
