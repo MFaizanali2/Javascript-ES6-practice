@@ -60,9 +60,9 @@
 // console.log(a)
 // let [b, c, d, e] = a;
 
-console.log(a)
-console.log(b);
-console.log(c);
-console.log(d);
-console.log(e);
-this is called destruction
+// console.log(a)
+// console.log(b);
+// console.log(c);
+// console.log(d);
+// console.log(e);
+// this is called destruction
